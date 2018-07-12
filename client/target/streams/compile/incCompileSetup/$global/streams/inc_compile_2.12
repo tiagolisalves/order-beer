@@ -1,0 +1,132 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/13766841793/IdeaProjects/beer-client/target/scala-2.12/classes
+compile options:
+1 items
+0 -> -Xplugin:/home/13766841793/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.6/jars/scalajs-compiler_2.12.6-0.6.24.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/IdeaProjects/beer-client/target/scala-2.12/classes/tutorial/webapp/TutorialApp$.class
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/IdeaProjects/beer-client/target/scala-2.12/classes/tutorial/webapp/TutorialApp.class
+binary dependencies:
+5 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/.ivy2/cache/org.querki/jquery-facade_sjs0.6_2.12/jars/jquery-facade_sjs0.6_2.12-1.2.jar
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.6.jar
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.24.jar
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> /home/13766841793/jdks/mainJdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> tutorial.webapp.TutorialApp
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> tutorial.webapp.TutorialApp$
+used names:
+44 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> $
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> <init>
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> <repeated>
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> A
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Any
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> AnyRef
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Array
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> B1
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> B2
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> ElementDesc
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> EventHandler
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Evidence
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Function
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Function0
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> JQuery
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> JQueryStatic
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Nothing
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Object
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Predef
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> R
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> String
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> TutorialApp
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> Unit
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> addClickedMessage
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> append
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> appendTo
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> apply
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> base
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> click
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> f02EventHandler
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> from
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> fromFunction0
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> jquery
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> js
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> left
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> org
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> package
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> querki
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> right
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> scala
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> setupUI
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> tutorial
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> webapp
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> |
+product stamps:
+2 items
+/home/13766841793/IdeaProjects/beer-client/target/scala-2.12/classes/tutorial/webapp/TutorialApp$.class -> lastModified(1531432071000)
+/home/13766841793/IdeaProjects/beer-client/target/scala-2.12/classes/tutorial/webapp/TutorialApp.class -> lastModified(1531432071000)
+source stamps:
+1 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> hash(74da3635aff3daeb5bea2da67523fdbed0cdb01a)
+binary stamps:
+5 items
+/home/13766841793/.ivy2/cache/org.querki/jquery-facade_sjs0.6_2.12/jars/jquery-facade_sjs0.6_2.12-1.2.jar -> lastModified(1507668948000)
+/home/13766841793/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.6.jar -> lastModified(1526832833000)
+/home/13766841793/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.24.jar -> lastModified(1530210876000)
+/home/13766841793/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar -> lastModified(1524818407000)
+/home/13766841793/jdks/mainJdk/jre/lib/rt.jar -> lastModified(1517232639000)
+class names:
+5 items
+/home/13766841793/.ivy2/cache/org.querki/jquery-facade_sjs0.6_2.12/jars/jquery-facade_sjs0.6_2.12-1.2.jar -> org.querki.jquery.JQueryStatic$
+/home/13766841793/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/jars/scalajs-dom_sjs0.6_2.12-0.9.6.jar -> org.scalajs.dom.package$
+/home/13766841793/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.24.jar -> scala.scalajs.js.$bar
+/home/13766841793/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar -> scala.Function0
+/home/13766841793/jdks/mainJdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEaS/9wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwIIFOtHQABm5vdGlmeXNxAH4ADKLyM6t0AAR3YWl0c3EAfgAMRsJ2LXQADSRhc0luc3RhbmNlT2ZzcQB+AAwtRQspdAAGZXF1YWxzc3EAfgAMEg3VDHQADGFzSW5zdGFuY2VPZnNxAH4ADNAnVIh0AAxzeW5jaHJvbml6ZWRzcQB+AAyJRRGLdAANJGlzSW5zdGFuY2VPZnNxAH4ADJLP8d90AARtYWluc3EAfgAM16dbfnQACW5vdGlmeUFsbHNxAH4ADMO1FgN0AAtUdXRvcmlhbEFwcHNxAH4ADI8sqjB0AAxpc0luc3RhbmNlT2ZzcQB+AAxIawlZdAARYWRkQ2xpY2tlZE1lc3NhZ2VzcQB+AAw0+keidAACPT1zcQB+AAyTlU/adAAFY2xvbmVzcQB+AAw1vLWNdAAHc2V0dXBVSXNxAH4ADJ+8kAN0AAh0b1N0cmluZ3NxAH4ADFYZ7FV0AAIhPXNxAH4ADJDPK3x0AAhnZXRDbGFzc3NxAH4ADIVSCGp0AAJuZXNxAH4ADBHqr310AAJlcXNxAH4ADAxKojR0AAIjI3NxAH4ADL4BZ850AAhmaW5hbGl6ZXNxAH4ADBlUi/Z0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABt0dXRvcmlhbC53ZWJhcHAuVHV0b3JpYWxBcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBjc3EAfgBedXEAfgBAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBGcQB+AE91cQB+AFAAAAAAc3EAfgBSAHEAfgAddXEAfgBVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Aa3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AWHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AclsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYnNxAH4AcXQABUFycmF5cQB+AHd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcXQABlN0cmluZ3NxAH4AdXNxAH4AeHVxAH4AewAAAANzcQB+AH10AARqYXZhc3EAfgB9dAAEbGFuZ3EAfgCCc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPdHV0b3JpYWwud2ViYXBwc3EAfgCrdAAIdHV0b3JpYWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWSQdqBBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARC9ob21lLzEzNzY2ODQxNzkzL0lkZWFQcm9qZWN0cy9iZWVyLWNsaWVudC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdNo2Na/z2utb6i2mdSP9vtDNsBo=
+external apis:
+0 items
+source infos:
+1 items
+/home/13766841793/IdeaProjects/beer-client/src/main/scala/tutorial/webapp/TutorialApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJB2oEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9ob21lLzEzNzY2ODQxNzkzL0lkZWFQcm9qZWN0cy9iZWVyLWNsaWVudC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/13766841793/IdeaProjects/beer-server/src/main/scala/WebServer.scala:81:32: not found: value ByteString[0m
+[0m[[0m[31merror[0m] [0m[0m              numbers.map(n => ByteString(s"$n\n"))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

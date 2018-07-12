@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/13766841793/IdeaProjects/beer-client/target/scala-2.12/scala-js-tutorial-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 130638 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 466775 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 608459 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 175333 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 822 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 289181 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 478329 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 33122 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 12259 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 47118 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 36 -- invalidated: 44[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 105[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 207030 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 7 -- trees read: 254[0m

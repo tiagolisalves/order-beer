@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/beer-server_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer$Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$Order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer$Order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$Item$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/13766841793/IdeaProjects/beer-server/target/scala-2.12/classes/WebServer$Item$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
